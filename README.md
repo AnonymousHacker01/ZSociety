@@ -17,19 +17,17 @@
 
 
 <p align="center">
-  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-features">Features</a> •
-  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-install">Install & Run</a> •
-  <a href="https://youtube.com/channel/UC1aTvkvmTVO7OJ6oixtJo8w">Youtube Channel</a> •
-  <a href="https://github.com/Kiny-Kiny/Kiny-Painel/blob/master/README.md#-credits">Credits</a> •
-  <a href="https://github.com/Kiny-Kiny">Author</a> •
-  <a href="http://int-search.xyz/">Site do Painel</a>
+  <a href="https://github.com/AnonymousHacker01/ZSociety/blob/master/README.md#-features">Features</a> •
+  <a href="https://github.com/AnonymousHacker01/ZSociety/blob/master/README.md#-install">Install & Run</a> •
+  <a href="https://github.com/AnonymousHacker01/ZSociety/blob/master/README.md#-credits">Credits</a> •
+  <a href="https://github.com/AnonymousHacker01">Author</a> •
 </p>
 
-<h3><p align="center">Version: 4.0</p></h3>
+<h3><p align="center">Version: 1.0</p></h3>
  
 <h2 align="center">📆  Features</h2>
 
-Todos os que estão marcados já se encontram presente no **Kiny-Painel** funcionando. 
+Todos os que estão marcados já se encontram presente no **ZSociety** funcionando. 
 Os que não estão, é porque ainda estão em desenvolvimento.
 
 - [x] Consulta de CEP
@@ -48,65 +46,45 @@ Os que não estão, é porque ainda estão em desenvolvimento.
 
 Estamos sempre atualizando a ferramenta. Por conta disso, as vezes consultas podem ficar **offline** temporariamente. 
 Iremos avisar aqui quando cada ferramentas for atualizada!
-Para você executar o **Kiny-Painel** é nescessario ter o python instalado e para isso você pode baixar no site oficial do python clicando [**Aqui!**](https://www.python.org/downloads/)
+Para você executar o **ZSociety** é nescessario ter o python instalado e para isso você pode baixar no site oficial do python clicando [**Aqui!**](https://www.python.org/downloads/)
 
-Depois de baixar e instalar o python você pode baixar o **Kiny-Painel** diretamente do github com os seguintes comandos:
+Depois de baixar e instalar o python você pode baixar o **ZSociety** diretamente do github com os seguintes comandos:
 
 ```
 💻 Termux
 $ pkg upgrade && pkg update -y
 $ pkg install git python -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
+$ git clone https://github.com/AnonymousHacker01/ZSociety/
+$ cd ZSociety
 $ python3 main.py
 
 💻 Debian
 $ apt upgrade && apt update -y
 $ apt install git python -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
+$ git clone https://github.com/AnonymousHacker01/ZSociety/
+$ cd ZSociety
 $ python3 main.py
 
 💻 Arch Linux
 $ pacman -Syyu git python -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
+$ git clone https://github.com/AnonymousHacker01/ZSociety/
+$ cd ZSociety
 $ python3 main.py
 
 💻 OpenSUSE
 $ zypper install python git -y
-$ git clone https://github.com/Kiny-Kiny/Kiny-Painel
-$ cd Kiny-Painel
+$ git clone https://github.com/AnonymousHacker01/ZSociety/
+$ cd ZSociety
 $ python3 main.py
 ```
 
-<p align="center" >
-  <h2 align="center">🚀 Running</h2>
-  <img alt="Kiny-Painel" src="https://github.com/Kiny-Kiny/Kiny-Painel/blob/main/IMG_20210815_155210_616.jpg">
-</p>
-
-<p align="center" >
-  <h2 align="center">📧 Groups</h2>
-<a href="https://chat.whatsapp.com/Dnjs8guT97wAJgcZSI6e3c" alt="WhatsApp">
-  <img src = "https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" /> </a>
-
-<a href="http://t.me/kinycrimson" alt="Telegram">
-  <img src = "https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/kinycrimson" /> </a>
 
 <h2 align="center">🙏  Credits</h2>
 
-| Autor          | Ajuda                                                                  |
-| -------------- |:-------------:                                                         |
-| Gav1x          | Api's                                                                  |
-| P0isonBR       | Consulta de CPF/Atualização Automática                                 |
-| Snuking        | Algumas ajudas no próprio script                                       |
-| Douglas/Josuke | Patrocinador                                                           |
-| Margarina      | Patrocinador                                                           |
-| N 3 X 0        | Patrocinador/Consulta de CPF                                           |
-| Yato           | Antigo Recode                                                          |
-| Peticali       | Ajudas no próprio script                                               |
-| Johann Krebs   | Criptografia, obfuscação, APIs, suporte, bugfixing e testes            |
-
+| Autor          | Ajuda         |
+| -------------- |:-------------:|
+| P01S0N H4CK3R  | Tudo          |
+ 
 <div align="center">
   <h2>👤 Perfis:</h2>
 
@@ -121,12 +99,6 @@ $ python3 main.py
   </table>
 </div>
  
- <h2 align="center">💰 Donate</h2>
- 
- Chave **Pix** para quem quiser contribuir e ajudar o painel a se manter ativo:
- ```
-  (21) 97918-0533
- ```
 
 <p>
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
