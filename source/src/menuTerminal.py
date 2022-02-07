@@ -132,14 +132,7 @@ def cnpj() -> str:
 		msg+=str('[ '+G+str(i.upper())+C+ ' : ' + str(result[i]) + ' ]\n')
 	return msg
 
-grupo_dict={
-'Grupo do WhatsApp': 'https://chat.whatsapp.com/Dnjs8guT97wAJgcZSI6e3c',
-'Grupo do Telegram':'https://t.me/kinycrimson',
-'Grupo de Consultas - Telegram':'https://t.me/kinycrimsonconsultas',
-'Grupo de Consultas - WhatsApp':'https://chat.whatsapp.com/Clfx2AcM7QY8pa5UznUQib',
-'Instagram' : '@parziovanni',
-'Twitter': 'KinyBruno',
-'Youtube': 'https://youtube.com/c/reKINYCRIMSONLOL'}
+g
 
 def grupo() -> str:
 	msg=''
@@ -178,12 +171,9 @@ def menu() -> None:
 	while Exit==False:
 		clear(clean)
 		option=str(input('''%s%s%s
-Bem-Vindo(a) ao %sKinyPainel|Free%s
+Bem-Vindo(a) ao %sZSociety|(BETA)%s
 Seu Endereço de IP : %s%s%s
 
-%s[%s PIX : %s(21) 97918-0533 %s]
-
-[Telegram : %s@K_iny%s | WhatsApp : %s+55 21 7918-0533%s]
  _______________________________
 |{ %s1%s } Consulta de DDD      |
 |{ %s2%s } Consulta de CNPJ     |
